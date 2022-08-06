@@ -150,3 +150,9 @@ If you get build errors related to Qt5, make sure that the path for Qt5 is corre
 [PCL Source Github](https://github.com/PointCloudLibrary/pcl)
 
 [PCL Mac Compilation Docs](https://pcl.readthedocs.io/projects/tutorials/en/latest/compiling_pcl_macosx.html#compiling-pcl-macosx)
+
+
+### Project Output video:
+
+[![Lidar Obstacle detection video](./Output/Output_Snapshot.png)](LidarObstacleDetectionVideo"Lidar Obstacle detection Clip for  - Click to Watch!")![image](https://user-images.githubusercontent.com/79811489/183229497-2af7775e-2442-4900-8f45-e36e475f1a0e.png)
+
