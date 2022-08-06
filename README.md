@@ -154,5 +154,6 @@ If you get build errors related to Qt5, make sure that the path for Qt5 is corre
 
 ### Project Output video:
 
-[![Lidar Obstacle detection video](./Output/Output_Snapshot.png)](LidarObstacleDetectionVideo"Lidar Obstacle detection Clip for  - Click to Watch!")![image](https://user-images.githubusercontent.com/79811489/183229497-2af7775e-2442-4900-8f45-e36e475f1a0e.png)
+[![Lidar Obstacle detection video](Output/Output_Snapshot.png)](https://www.youtube.com/watch?v=oVwzvZLyeWE"Lidar Obstacle detection Clip for  - Click to Watch!")![image](https://user-images.githubusercontent.com/79811489/183229685-79efd735-6102-4478-9361-285090541a6c.png)
+
 
