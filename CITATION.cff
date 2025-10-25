@@ -1,0 +1,20 @@
+cff-version: 1.2.0
+message: "LidarObstacleDetection for Autonomous driving"
+title: "LidarObstacleDetection"
+version: 1.0.0
+doi: 10.5281/zenodo.1234567   # optional if linked to Zenodo
+date-released: 2025-10-25
+authors:
+  - family-names: Vishnoi
+    given-names: Nitin
+    affiliation: ""
+    orcid: "https://orcid.org/0009-0000-5871-9307"
+repository-code: "https://github.com/nitvishnoi/LidarObstacleDetection/"
+keywords:
+  - AI
+  - Embedded Systems
+  - Autonomous Driving
+  - Lidar 
+  - Detection using Lidar
+license: MIT
+abstract: "This repository contains the source code and datasets for [LidarObstacleDetection]."
