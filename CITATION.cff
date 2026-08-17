@@ -1,20 +1,39 @@
 cff-version: 1.2.0
-message: "LidarObstacleDetection for Autonomous driving"
-title: "LidarObstacleDetection"
+message: "If you use this software, please cite it as below."
+title: "Lidar Obstacle Detection"
+type: software
 version: 1.0.0
-doi: 10.5281/zenodo.1234567   # optional if linked to Zenodo
+doi: 10.5281/zenodo.17444340
 date-released: 2025-10-25
 authors:
   - family-names: Vishnoi
     given-names: Nitin
-    affiliation: ""
     orcid: "https://orcid.org/0009-0000-5871-9307"
-repository-code: "https://github.com/nitvishnoi/LidarObstacleDetection/"
+repository-code: "https://github.com/nitvishnoi/LidarObstacleDetection"
+license: CC-BY-4.0
 keywords:
-  - AI
-  - Embedded Systems
-  - Autonomous Driving
-  - Lidar 
-  - Detection using Lidar
-license: MIT
-abstract: "This repository contains the source code and datasets for [LidarObstacleDetection]."
+  - lidar
+  - point cloud processing
+  - obstacle detection
+  - RANSAC segmentation
+  - euclidean clustering
+  - sensor fusion
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.17444340
+    description: "Concept DOI - always resolves to the latest version"
+  - type: doi
+    value: 10.5281/zenodo.17444341
+    description: "DOI for version 1.0.0"
+abstract: >-
+  Lidar point cloud processing pipeline for obstacle detection, implementing
+  plane segmentation and euclidean clustering over streamed point cloud data.
+  DESCRIBE YOUR OWN MODIFICATIONS HERE - state plainly what this work adds
+  beyond the upstream project cited under references.
+references:
+  - type: software
+    title: "SFND_Lidar_Obstacle_Detection"
+    authors:
+      - name: "Udacity"
+    repository-code: "https://github.com/udacity/SFND_Lidar_Obstacle_Detection"
+    notes: "Upstream project from which this repository is derived."
